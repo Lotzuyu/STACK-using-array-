@@ -68,16 +68,3 @@ int pop()
         return item;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
